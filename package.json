@@ -1,0 +1,16 @@
+{
+  "name": "statusbotdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-fivem-api": "^1.0.6",
+    "discord.js": "^13.6.0",
+    "repeat": "^2.0.4"
+  }
+}
